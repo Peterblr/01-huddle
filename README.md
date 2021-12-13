@@ -4,4 +4,4 @@
 
 ## Welcome! 👋
 
-![Design preview for the NFT preview card component coding challenge]()
+![Design preview for the NFT preview card component coding challenge](https://github.com/Peterblr/01-huddle/blob/master/images/active-states.jpg)
